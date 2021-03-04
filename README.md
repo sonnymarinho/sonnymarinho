@@ -12,6 +12,8 @@
 - ⚡ Fun Facts: I like to hear podcasts; get to know new things.
 
 
+</br>
+
 ---
 
 <p align="inline">
@@ -79,6 +81,7 @@
   </a>
   
 </p>
+
 
 </br>
 
