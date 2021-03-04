@@ -1,5 +1,9 @@
 ## Hi there, I'm Sonny 👋
 
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonnymarinho&layout=compact" />
+</a>
+
 ### I'm passionate about technology and code!
 
 - 🏢 I'm currently not on a professional project, but I would love to be 😁.
@@ -7,27 +11,10 @@
 - 🎯 2021 Goals: Get to participate in some professional project.
 - ⚡ Fun Facts: I like to hear podcasts; get to know new things.
 
----
 
-### Contact me
+---
 
 <p align="inline">
-  <a href="https://www.linkedin.com/in/sonnymarinho" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-Sonny%20Marinho-378fe9?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sonnymarinho" />
-  </ a>
-
-
-  <a href="mailto:sonny.marinho@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/-sonny.marinho@gmail.com-ea4335?style=flat-square&logo=Gmail&logoColor=white" />  
-  </a>
-</p>
-
-
----
-
-### Languages and Tools:
-
-<p>
   
   <img height="28px" align="left" alt="HTML5" src="https://raw.githubusercontent.com/sonnymarinho/sonnymarinho/edit/profile/assets/techandtools/html5.png" />
   
@@ -47,6 +34,10 @@
     <img height="28px" align="left" alt="NodeJS" src="https://raw.githubusercontent.com/sonnymarinho/sonnymarinho/edit/profile/assets/techandtools/nodejs.svg" />
   </a>
   
+  <a align="center" href="https://https://pt-br.reactjs.org/">
+    <img height="28px" align="left" alt="React" src="https://raw.githubusercontent.com/sonnymarinho/sonnymarinho/edit/profile/assets/techandtools/react.svg" />
+  </a>
+  
   <a align="center" href="https://www.docker.com">
     <img height="28px" align="left" alt="Docker" src="https://raw.githubusercontent.com/sonnymarinho/sonnymarinho/edit/profile/assets/techandtools/docker.svg" />
   </a>
@@ -59,9 +50,6 @@
     <img height="28px" align="left" alt="NextJS" src="https://raw.githubusercontent.com/sonnymarinho/sonnymarinho/edit/profile/assets/techandtools/nextjs.png" />
   </a>
   
-  <a align="center" href="https://https://pt-br.reactjs.org/">
-    <img height="28px" align="left" alt="React" src="https://raw.githubusercontent.com/sonnymarinho/sonnymarinho/edit/profile/assets/techandtools/react.svg" />
-  </a>
   
   <a align="center" href="https://jestjs.io">
     <img height="28px" align="left" alt="Jest" src="https://raw.githubusercontent.com/sonnymarinho/sonnymarinho/edit/profile/assets/techandtools/jest.svg" />
@@ -70,10 +58,7 @@
   <a align="center" href="https://www.postgresql.org">
     <img height="28px" align="left" alt="PostgreSQl" src="https://raw.githubusercontent.com/sonnymarinho/sonnymarinho/edit/profile/assets/techandtools/postgresql.svg" />
   </a>
-  
-  <a align="center" href="https://typeorm.io/">
-    <img height="28px" align="left" alt="TypeORM" src="https://raw.githubusercontent.com/sonnymarinho/sonnymarinho/edit/profile/assets/techandtools/typeorm.png" />
-  </a>
+ 
 
   <a align="center" href="https://eslint.org">
     <img height="28px" align="left" alt="Eslint" src="https://raw.githubusercontent.com/sonnymarinho/sonnymarinho/edit/profile/assets/techandtools/eslint.svg" />
@@ -88,25 +73,25 @@
   <a align="center" href="https://yarnpkg.com">
     <img height="28px" align="left" alt="Yarn" src="https://raw.githubusercontent.com/sonnymarinho/sonnymarinho/edit/profile/assets/techandtools/yarn.svg" />
   </a>
-
-  <a align="center" href="https://editorconfig.org">
-    <img height="28px" align="left" alt="EditorConfig" src="https://raw.githubusercontent.com/sonnymarinho/sonnymarinho/edit/profile/assets/techandtools/editorconfig.png" />
-  </a>
-
-  <a align="center" href="https://styled-components.com">
-    <img height="28px" align="left" alt="Styled-Components" src="https://raw.githubusercontent.com/sonnymarinho/sonnymarinho/edit/profile/assets/techandtools/styled-components.png" />
-  </a>
-
-
-  <a align="center" href="https://expressjs.com/pt-br/">
-    <img height="28px" align="left" alt="Express" src="https://raw.githubusercontent.com/sonnymarinho/sonnymarinho/edit/profile/assets/techandtools/express.png" />
+  
+  <a align="center" href="https://ubuntu.com">
+    <img height="28px" align="left" alt="Ubuntu" src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" />
   </a>
   
 </p>
 
-
-</br></br></br>
+</br>
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonnymarinho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="inline">
+  <a href="https://www.linkedin.com/in/sonnymarinho" target="_blank">
+    <img align="left" alt="LinkedIn" src="https://img.shields.io/badge/-Sonny%20Marinho-378fe9?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sonnymarinho" />
+  </ a>
+
+
+  <a href="mailto:sonny.marinho@gmail.com">
+    <img  align="left" alt="Gmail" src="https://img.shields.io/badge/-sonny.marinho@gmail.com-ea4335?style=flat-square&logo=Gmail&logoColor=white" />  
+  </a>
+</p>
