@@ -6,7 +6,6 @@
 
 ### I'm passionate about technology and code!
 
-- 🏢 I'm currently not on a professional project, but I would love to be 😁.
 - 📓 I'm presently reinforcing my knowledge, creating some projects.
 - 🎯 2021 Goals: Get to participate in some professional project.
 - ⚡ Fun Facts: I like to hear podcasts; get to know new things.
