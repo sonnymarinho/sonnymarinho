@@ -7,7 +7,7 @@
 ### I'm passionate about technology and code!
 
 - 📓 I'm presently reinforcing my knowledge, creating some projects.
-- 🎯 2021 Goals: Get to participate in some professional project.
+- 🎯 2021 Goals: Get to participate in some public projects.
 - ⚡ Fun Facts: I like to hear podcasts; get to know new things.
 
 
@@ -97,3 +97,5 @@
     <img  align="left" alt="Gmail" src="https://img.shields.io/badge/-sonny.marinho@gmail.com-ea4335?style=flat-square&logo=Gmail&logoColor=white" />  
   </a>
 </p>
+
+---
