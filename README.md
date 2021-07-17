@@ -97,5 +97,3 @@
     <img  align="left" alt="Gmail" src="https://img.shields.io/badge/-sonny.marinho@gmail.com-ea4335?style=flat-square&logo=Gmail&logoColor=white" />  
   </a>
 </p>
-
----
