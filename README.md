@@ -76,8 +76,16 @@
     <img height="28px" align="left" alt="Yarn" src="https://raw.githubusercontent.com/sonnymarinho/sonnymarinho/edit/profile/assets/techandtools/yarn.svg" />
   </a>
   
-  <a align="center" href="https://ubuntu.com">
-    <img height="28px" align="left" alt="Ubuntu" src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" />
+  <a align="center" href="https://manjaro.org/">
+    <img height="28px" align="left" alt="Manjaro" src="https://seeklogo.com/images/M/manjaro-logo-CF438BDF99-seeklogo.com.png" />
+  </a>
+  
+  <a align="center" href="https://www.java.com/">
+    <img height="28px" align="left" alt="Java Language" src="https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png" />
+  </a>
+  
+  <a align="center" href="https://quarkus.io/">
+    <img height="28px" align="left" alt="Quarkus" src="https://seeklogo.com/images/Q/quarkus-logo-C9F006782E-seeklogo.com.png" />
   </a>
   
 </p>
