@@ -70,11 +70,6 @@
   <a align="center" href="https://prettier.io">
     <img height="28px" align="left" alt="Prettier" src="https://raw.githubusercontent.com/sonnymarinho/sonnymarinho/edit/profile/assets/techandtools/prettier.svg" />
   </a>
-
-
-  <a align="center" href="https://yarnpkg.com">
-    <img height="28px" align="left" alt="Yarn" src="https://raw.githubusercontent.com/sonnymarinho/sonnymarinho/edit/profile/assets/techandtools/yarn.svg" />
-  </a>
   
   <a align="center" href="https://manjaro.org/">
     <img height="28px" align="left" alt="Manjaro" src="https://seeklogo.com/images/M/manjaro-logo-CF438BDF99-seeklogo.com.png" />
