@@ -7,7 +7,6 @@
 ### I'm passionate about technology and code!
 
 - 📓 I'm presently reinforcing my knowledge, creating some projects.
-- 🎯 2022 Goals: Get to participate in some open source projects.
 - ⚡ Fun Facts: I like to hear podcasts; get to know new things.
 - 👨🏾‍💻 Create some more personal projects and fill out the little squares down below xD
 
